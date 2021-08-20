@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class GetCatalogsRepositoryImpl implements IGetCatalogsRepository {
   final IGetCatalogsDatasource _datasource;

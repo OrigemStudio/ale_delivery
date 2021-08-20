@@ -1,4 +1,4 @@
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class GetCatalogsDatasourceImpl implements IGetCatalogsDatasource {
   final IHasuraClient client;

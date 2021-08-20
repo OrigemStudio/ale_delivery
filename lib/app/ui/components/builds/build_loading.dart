@@ -1,4 +1,4 @@
-import '../../../../_exports.dart';
+import '../../../../_exports_main.dart';
 
 class BuildLoading extends StatelessWidget {
   const BuildLoading({Key? key}) : super(key: key);

@@ -1,15 +1,15 @@
-import '../../_exports.dart';
+import '../../_exports_main.dart';
 
 part 'app_routes.dart';
 
 class AppPages {
   AppPages._();
 
-  static const INITIAL = Routes.HOME;
+  static const INITIAL = Routes.INITIAL;
 
   static final routes = [
     GetPage(
-      name: _Paths.HOME,
+      name: _Paths.INITIAL,
       page: () => BasePage(),
       binding: BaseBinding(),
     ),

@@ -1,5 +1,5 @@
 // ignore_for_file: invalid_use_of_protected_member
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 abstract class IGetProductsUseCase {
   Future<void> call(ProductController controller);

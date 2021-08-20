@@ -1,4 +1,4 @@
-import '../../../../../../_exports.dart';
+import '../../../../../../_exports_main.dart';
 
 class ProductController extends GetxController with StateMixin {
   final IGetProductsUseCase _getProductsUseCase;

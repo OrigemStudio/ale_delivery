@@ -2,11 +2,11 @@ import 'package:flutter/material.dart';
 
 import 'package:get/get.dart';
 
-export '_exports.dart';
-import '_exports.dart';
+export '_exports_main.dart';
+import '_exports_main.dart';
 
 void main() async {
-  var initialRoute = Routes.HOME;
+  var initialRoute = Routes.INITIAL;
   runApp(Main(initialRoute));
 }
 

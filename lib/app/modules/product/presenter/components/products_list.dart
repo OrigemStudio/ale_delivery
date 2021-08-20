@@ -1,4 +1,4 @@
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class ProductsList extends StatelessWidget {
   final List<ProductEntity> Products;

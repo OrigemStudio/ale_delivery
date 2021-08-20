@@ -1,4 +1,4 @@
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class ProductPage extends GetView<ProductController> {
   const ProductPage({Key? key}) : super(key: key);

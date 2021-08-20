@@ -1,4 +1,4 @@
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class BasePage extends GetView<BaseController> {
   const BasePage({Key? key}) : super(key: key);
@@ -7,7 +7,7 @@ class BasePage extends GetView<BaseController> {
   Widget build(BuildContext context) {
     return Scaffold(
         appBar: AppBar(
-          title: const Text('HomeView'),
+          title: const Text('BasePage'),
           centerTitle: true,
         ),
         body: Column(

@@ -1,5 +1,5 @@
 import 'package:dartz/dartz.dart';
-import '../../../../../_exports.dart';
+import '../../../../../_exports_main.dart';
 
 class GetProductsRepositoryImpl implements IGetProductsRepository {
   final IGetProductsDatasource _datasource;

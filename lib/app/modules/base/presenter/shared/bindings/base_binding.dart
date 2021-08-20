@@ -1,4 +1,4 @@
-import '../../../../../../_exports.dart';
+import '../../../../../../_exports_main.dart';
 
 class BaseBinding extends Bindings {
   @override
